@@ -2,7 +2,7 @@
   "name": "dreadnought",
   "version": "0.1.0",
   "private": true,
-  "url": "https://AryanSarang.github.io/SidebarUI",
+  "homepage": "https://AryanSarang.github.io/SidebarUI",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
